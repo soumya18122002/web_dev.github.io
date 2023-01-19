@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    /* margin: 0px;
+    padding: 0px; */
+}
+
+.row>div {
+    background-color: gray;
+    border: 2px solid red;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: cursive;
+}
+
+h3 {
+    margin-top: 10px;
+    background-color: aqua;
+    padding: 5px;
+    float: right;
+    border: 2px solid black;
+}
+
+#ch {
+    background-color: pink;
+}
+
+#be {
+    background-color: red;
+}
+
+#su {
+    background-color: goldenrod;
+}
